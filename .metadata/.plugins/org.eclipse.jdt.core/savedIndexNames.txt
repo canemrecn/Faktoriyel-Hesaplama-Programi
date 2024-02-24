@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+C:\Users\user\Java Projeleri\Mini Projeler\Faktoriyel Hesaplama Programı\.metadata\.plugins\org.eclipse.jdt.core
+3928566669.index
+1865797976.index
